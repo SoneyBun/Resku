@@ -9,6 +9,8 @@
 <div align="center">
   <!-- Header -->
   <img width="2500" height="500" alt="raisq" src="https://github.com/user-attachments/assets/3750ed8c-12a4-430e-b55e-6380b1d7c28d" />
+  <!-- Pronunciation -->
+  <h3>/ˈres.kjuː/</h3>
 </div>
 
 <!-- Divider -->
