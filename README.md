@@ -1,6 +1,6 @@
 <!-- Note -->
 >[!CAUTION]
->Raisq is not completed. Many of the files are unfinished. Uploads will be in phases.
+>Resku is not completed. Many of the files are unfinished. Uploads will be in phases.
 
 <!-- Divider -->
 ---
@@ -8,7 +8,7 @@
 <!-- Alignment -->
 <div align="center">
   <!-- Header -->
-  <img width="2500" height="500" alt="raisq" src="https://github.com/user-attachments/assets/3750ed8c-12a4-430e-b55e-6380b1d7c28d" />
+  <img width="2500" height="500" alt="resku" src="https://github.com/user-attachments/assets/c2622afb-55ec-475b-ac13-c2650b53ed27" />
   <!-- Pronunciation -->
   <h3>/ˈres.kjuː/</h3>
 </div>
