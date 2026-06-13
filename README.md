@@ -27,19 +27,6 @@
 - Select <a href="https://colab.research.google.com/github/SoneyBun/Resku/blob/main/resku.ipynb" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Open%20in%20Colab-%20?style=plastic&logo=Google%20Colab&labelColor=%23606060&color=%231384c5"></a> and then execute the notebook.
 - There are no datasets that are required to be uploaded at the time.
 
-<!-- Phases -->
-## Phases
-
-<!-- Note -->
->[!NOTE]
->A few of the datasets don't contain tabular data, which is why many of the visuals contain zeros for most of the datasets.
-
-<!-- Instructions -->
-- Project instructions can be found in the <a href="./Phases" target="_blank">Phases</a> folder.
-- Project answers can be found here:
-  - [Phase 1](https://docs.google.com/document/d/e/2PACX-1vRjuWWWrTpCQBphhl2UnO6ypGbfFYD1_t3h_80bCELC9UFQsUIPhhDI-HX12-5EwEI6eOui0h9Oewor/pub)
-- This aligns with the capstone project LCPS DSAI students complete at the end of the year.
-
 <!-- Divider -->
 ---
 
