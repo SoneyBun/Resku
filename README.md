@@ -1,15 +1,12 @@
 <!-- Note -->
 >[!CAUTION]
->Resku is not completed. Many of the files are unfinished. Uploads will be in phases.
+>USELESS REPO. ONLY HERE FOR ORGANIZATION. WILL SALVAGE
 
 <!-- Divider -->
 ---
 
 <!-- Alignment -->
 <div align="center">
-  <!-- Header -->
-  <img width="2500" height="500" alt="resku" src="https://github.com/user-attachments/assets/c2622afb-55ec-475b-ac13-c2650b53ed27" />
-  <!-- Pronunciation -->
   <h3>/ˈres.kjuː/</h3>
 </div>
 
